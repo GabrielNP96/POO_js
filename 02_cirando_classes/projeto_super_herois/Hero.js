@@ -14,6 +14,8 @@ export class Hero {
     }
 
     CharacterSheet() {
-        console.log(`Nome: ${this.name}\nCodenome: ${this.codename}`)
+        console.log(`Nome: ${this.name}\nCodenome: ${this.codename}\nEquipe principal: ${this.coreTeam}\nNacionalidade: ${this.nationality}`)
+        console.log('-----------------------------')
     }
+
 }
