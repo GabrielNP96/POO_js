@@ -1,0 +1,13 @@
+{
+  "name": "projeto_super_herois",
+  "version": "1.0.0",
+  "description": "estudo de js poo",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Nascimento",
+  "license": "ISC"
+  
+}

@@ -1,6 +1,6 @@
 //classe para salvar herois
 
-class hero {
+export class Hero {
     name;
     codename;
     coreTeam;
@@ -14,6 +14,6 @@ class hero {
     }
 
     CharacterSheet() {
-        console.log(`Nome: ${this.name} \n`)
+        console.log(`Nome: ${this.name}\nCodenome: ${this.codename}`)
     }
 }
